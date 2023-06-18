@@ -11,7 +11,7 @@ import cors from "cors"
 connectDB();
 
 
-const PORT= process.env.PORT ||8000;
+const PORT= process.env.PORT ||3000;
 
 // rest api
 
